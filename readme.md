@@ -1,4 +1,4 @@
-# Concept 14: Thinking, effort & models, step by step
+# Thinking, effort & models, step by step
 
 This file explains how Concept 14 (**Thinking, effort & models**) was added to the Claude Agent SDK Lab.
 Concept 2 introduced `model`. Concept 12 switched it with `setModel()`. This concept looks at **how hard the model
